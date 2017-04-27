@@ -5,7 +5,7 @@ description:
 baseurl:             ""
 url:                 ""
 github:
-  url:               "https://github url"
+  url:               "https://jekyll-test.github.io"
 author:
   name:              "name here"
   email:             "email here"
